@@ -1,0 +1,25 @@
+.carou{
+    /* border: 1px solid; */
+    min-height: 350px;
+    padding: 20px;
+    background-color: #f2eaeafd;
+}
+#temp{
+    color: #f58220;
+    border-right: 1px solid;
+    height: 25px;
+    font-weight: bold;
+    text-align: right;
+}
+.carouInfo{
+    padding: 10px;
+    background-color: #f2eaeafd;
+}
+#btn{
+    background-color: #f58220;
+    border: 0px;
+    height: 33px;
+    font-weight: 200;
+    font-size: medium;
+    color: #fff;
+}

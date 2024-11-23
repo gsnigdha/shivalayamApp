@@ -1,0 +1,53 @@
+.oViewBGrnd{
+    background-image: url('../../../public/images/img_1Background.png');
+    height: 250px;
+    /* width: 100%; */
+    padding-right: 0PX;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+#idol{
+    height: 200px;
+    /* align-items: center; */
+    margin-top: 25px;
+    width: 90%;
+}
+.font{
+    padding: 85px;
+    
+}
+#about{
+    font-size: 30px;
+    font-weight: 500;
+    /* font-weight: bold; */
+}
+#h6{
+    font-weight: 400;
+}
+.box{
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+    min-height: 250px;
+    width: 320px !important;
+    padding: 10px;
+    margin: 10px;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.cont{
+    padding: 60px;
+}
+#img{
+    height: 60px;
+    width: 55px;
+    position: relative;
+    left: 75px;
+    top: 10px;
+}
+#head{
+    position: relative;
+    left: 140px;
+    bottom: 50px;
+}

@@ -1,0 +1,137 @@
+.box3{
+    width: 100%;
+    height: auto;
+    /* border: 1px solid; */
+    /* color: white; */
+    background-color: hsla(0, 0%, 96%, 0.721);
+    display: flex;
+    padding: 20px;
+    
+}
+#gallery{
+    height: 190px;
+    width: 310px;
+}
+#pgal{
+    color: #131390;
+    font-weight: 400;
+    text-align: center;
+}
+#beauty{
+    font-weight: 400;
+    text-align: center;
+
+}
+#newsletter1{
+    width: 500px;
+    margin: auto;
+    /* margin-right: 30px; */
+    text-align: center;
+}
+footer .container-fluid{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+footer .container-fluid > div {
+    margin: 0px !important;
+}
+#hover{
+    padding: 2px;
+    margin: 2px;
+    font-size: 14px;
+}
+#hover:hover{
+    cursor: pointer;
+    font-weight: 600;
+    
+}
+
+#Copyrights{
+    padding: 10px;
+    margin: 5px ;
+    text-align: center;
+}
+#socialmedia i{
+    font-size: 25px;
+    padding: 10px;
+    margin: 2px;
+    position: relative;
+    left: 600px;
+    bottom: -40px;
+}
+.bluefoot{
+    height: 180px;
+    background-color: hsl(240, 70%, 34%);
+    padding: 30px;
+    text-align: center;
+}
+#download{
+    border-right: 1px solid;
+    height: 120px;
+    color: whitesmoke;
+    font-size: 23px;
+    font-weight: 400;
+    /* padding: 30px; */
+}
+#snews{
+    font-size: 23px;
+    font-weight: 400;
+    color: whitesmoke;
+    padding: 10px;
+}
+#strong{
+    color:hwb(240 5% 51%) ;
+}
+#footerimg{
+    background-image: url('https://www.srisailadevasthanam.org/static/media/SD-footer-bottom-strip.0bdcf963.png');
+    width: 100%;
+    height: 180px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+#social{
+    padding-left: 11px;
+    color: blue;
+    font-size: 20px;
+
+}
+
+#ppolicy{
+
+}
+#socialMedia{
+    margin: 2px;
+    padding-left: 40px;
+}
+#gplay{
+    width: 170px;
+    height: 60px;
+    padding: 5px;
+}
+
+.website{
+    padding: 30px ;
+}
+.info{
+    padding: 20px;
+}
+/* #mail{
+    text-align: center;
+} */
+#msg{
+    position: relative;
+    left: 163px;
+    height: 35px;
+    width: 42px;
+    padding: 8px;
+}
+#sicon{
+    position: relative;
+    left: 548px;
+    height: 37px;
+    width: 51px;
+    padding: 10px;
+
+}

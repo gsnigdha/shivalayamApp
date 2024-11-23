@@ -1,0 +1,103 @@
+/* .properties{
+    height: 30px;
+    border: 1px solid;
+    padding: 0px !important;
+    
+} */
+.navbar{
+    flex-wrap: nowrap !important;
+    font-size: small;
+    /* flex-shrink: initial; */
+    --bs-navbar-padding-y : 0px !important;
+
+}
+.box-1{
+    background-color:#131390 !important;
+    padding: 3px;
+    height: 35px;
+    /* border: 1px solid; */
+    padding: 0px !important;
+    
+    
+}
+.cont1{
+    color: whitesmoke !important;
+    font-size: small !important;
+    font-weight: 200 !important;
+    padding: 0px !important;
+
+}
+.icons{
+    padding: 15px;
+}
+.icon{
+    padding: 5px;
+}
+.box-2{
+    /* border: 1px solid; */
+    height: 100px;
+    background-color: #ff8000;
+    /* color: white !important; */
+}
+.row{
+    margin-right: 0px !important;
+}
+
+/* logoNavbar */
+
+#logo{
+    height: 75px;
+    width: 80px;
+    margin-top: 10px;
+    margin-left: 30px;
+    /* position: relative;
+    left: 40px;
+    bottom: 8px; */
+}
+#title{
+    color: white;
+    font-size: 19px;
+    line-height: 19px;
+    font-weight: 600;
+    margin-left: 0px;
+    letter-spacing: .2px;
+    padding-top: 20px;
+    
+}
+.about{
+    border-right: 1px solid;
+    height: 20px;
+    text-align: center;
+}
+.details{
+    /* height: 100px; */
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    /* text-align: left; */
+    
+}
+/* .toggleBar{
+    flex-direction: row;
+} */
+.seva{
+    height: 35px;
+    margin-top: 20px;
+    padding-right: 20px !important;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    
+}
+.volu{
+    width: 200px;
+    height: 20px;
+}
+.volu:hover{
+    cursor: pointer;
+    /* background-color: rgba(255, 128, 0, 0.393); */
+}
+.cart{
+    font-size: 20px;
+    
+}
